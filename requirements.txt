@@ -1,0 +1,10 @@
+fastapi 
+uvicorn  
+python-dotenv
+together
+gunicorn
+sqlalchemy 
+psycopg2
+databases 
+asyncpg
+faker
