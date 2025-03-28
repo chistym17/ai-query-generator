@@ -1,7 +1,7 @@
 import requests
 import json
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://ai-query-generator.onrender.com"
 
 prompts = [
     "Show me all orders made by user with ID 1.",
